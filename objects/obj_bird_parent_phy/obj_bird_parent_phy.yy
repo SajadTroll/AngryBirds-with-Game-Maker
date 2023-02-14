@@ -2,7 +2,7 @@
     "id": "e76d9a22-73aa-4275-b25b-b3ea56dd95d2",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_birds_parent",
+    "name": "obj_bird_parent_phy",
     "eventList": [
         {
             "id": "6236c902-07db-413e-b999-09c39551467e",
@@ -32,6 +32,26 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
+            "m_owner": "e76d9a22-73aa-4275-b25b-b3ea56dd95d2"
+        },
+        {
+            "id": "f5d9947f-adf2-4c78-84cf-a5a2a2efa947",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 50,
+            "eventtype": 6,
+            "m_owner": "e76d9a22-73aa-4275-b25b-b3ea56dd95d2"
+        },
+        {
+            "id": "72980c15-86d4-45bf-a124-2531897e6cdd",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
             "m_owner": "e76d9a22-73aa-4275-b25b-b3ea56dd95d2"
         }
     ],

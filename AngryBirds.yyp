@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "083728d8-a4b1-4d08-acaf-183474458cbf",
+            "Value": {
+                "id": "0ab5d276-0c33-4718-86b5-72fd7cdc1b10",
+                "resourcePath": "views\\083728d8-a4b1-4d08-acaf-183474458cbf.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "094c3c8e-c5be-46bf-a66c-30abe5007ac9",
             "Value": {
                 "id": "fef7d405-77be-4ffb-ba04-3ac3cfb94e1e",
@@ -87,6 +95,14 @@
             }
         },
         {
+            "Key": "0c10b0aa-3fbb-4753-9d28-fe201cd395c5",
+            "Value": {
+                "id": "84e94c01-5bf9-4fad-b8c5-c4c00eb5b86e",
+                "resourcePath": "views\\0c10b0aa-3fbb-4753-9d28-fe201cd395c5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "0d370c7d-4eef-4e11-9fb0-c54a1defd131",
             "Value": {
                 "id": "61dc8d4d-ef78-4827-ad7f-376214f3b1b6",
@@ -108,6 +124,14 @@
                 "id": "e8a6c247-af68-47c5-afda-21318508b0a0",
                 "resourcePath": "sprites\\c_static_0\\c_static_0.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0eaef9c2-85b4-4aa3-855b-cfeae4207589",
+            "Value": {
+                "id": "a531d36f-8cdb-44fd-8131-b3539c3c9167",
+                "resourcePath": "objects\\obj_bird_blue_phy\\obj_bird_blue_phy.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -299,6 +323,14 @@
             "Value": {
                 "id": "c7107877-7809-49e2-93fa-9d8228c20ac6",
                 "resourcePath": "objects\\obj_bird_phy\\obj_bird_phy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3d2364af-558f-49a1-b3f8-4d88963b9302",
+            "Value": {
+                "id": "794fdda1-370b-45a6-8301-93d93b18d6f3",
+                "resourcePath": "objects\\obj_bird_blue_ability_phy\\obj_bird_blue_ability_phy.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -548,6 +580,14 @@
                 "id": "1336319c-d84e-4386-9f80-94fe059243e0",
                 "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
                 "resourceType": "GMWindowsUAPOptions"
+            }
+        },
+        {
+            "Key": "8031d750-130b-4aa3-8a15-38549433457b",
+            "Value": {
+                "id": "0b01619e-b97b-4c63-9cfb-eb14ee76943c",
+                "resourcePath": "objects\\obj_bird_blue\\obj_bird_blue.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -986,7 +1026,7 @@
             "Key": "e76d9a22-73aa-4275-b25b-b3ea56dd95d2",
             "Value": {
                 "id": "a3116d91-889c-45f9-8f5d-36900d875052",
-                "resourcePath": "objects\\obj_birds_parent\\obj_birds_parent.yy",
+                "resourcePath": "objects\\obj_bird_parent_phy\\obj_bird_parent_phy.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1055,6 +1095,14 @@
             }
         },
         {
+            "Key": "f329bd1f-4eee-48d8-973b-dc40f6b72200",
+            "Value": {
+                "id": "47c4dee6-3dc2-48f9-aa60-d9be4b1cc49c",
+                "resourcePath": "objects\\obj_bird\\obj_bird.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f33921ac-6472-4a3f-a679-414ab95b1477",
             "Value": {
                 "id": "a34cda90-d4cd-47d7-a1b8-526b4cc6459e",
@@ -1082,7 +1130,7 @@
             "Key": "f5b57283-ca00-4bdf-ae11-03ec34ee66c7",
             "Value": {
                 "id": "cacf5221-5647-46bc-9d61-bae9db4bb73a",
-                "resourcePath": "objects\\obj_bird\\obj_bird.yy",
+                "resourcePath": "objects\\obj_bird_parent\\obj_bird_parent.yy",
                 "resourceType": "GMObject"
             }
         },

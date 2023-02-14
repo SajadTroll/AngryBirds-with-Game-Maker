@@ -1,13 +1,22 @@
 {
-    "id": "f329bd1f-4eee-48d8-973b-dc40f6b72200",
+    "id": "8031d750-130b-4aa3-8a15-38549433457b",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_bird",
+    "name": "obj_bird_blue",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "overriddenProperties": null,
+    "overriddenProperties": [
+        {
+            "id": "fa28fb9a-7ed0-47de-a06e-04b8a15f1ba4",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "f5b57283-ca00-4bdf-ae11-03ec34ee66c7",
+            "propertyId": "8f3c1b0e-4d12-47c0-bbd4-c42233e53cea",
+            "value": "obj_bird_blue_phy"
+        }
+    ],
     "parentObjectId": "f5b57283-ca00-4bdf-ae11-03ec34ee66c7",
     "persistent": false,
     "physicsAngularDamping": 0.1,
@@ -22,8 +31,10 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        
+    ],
     "solid": false,
-    "spriteId": "75e209cc-8e83-4705-85a9-c15cc196be2f",
+    "spriteId": "1ea889c5-6464-4179-a9e8-2b0bba594504",
     "visible": true
 }

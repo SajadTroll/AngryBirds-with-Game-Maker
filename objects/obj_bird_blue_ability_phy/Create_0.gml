@@ -4,4 +4,5 @@
 // Inherit the parent event
 event_inherited();
 
+flag_can_use_ability = false;
 audio_play_sound(fly_sound,1,false);
