@@ -2,7 +2,7 @@
     "id": "d6459968-f8d7-46b7-a3e5-83989348eb02",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_cloud",
+    "name": "obj_spreading_particles",
     "eventList": [
         {
             "id": "8f673c57-7d55-4d02-a5f5-4df3b8244c3f",
