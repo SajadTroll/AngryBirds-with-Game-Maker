@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_pig_phy",
     "eventList": [
-        
+        {
+            "id": "e85cbbcb-7416-42db-b1d3-53c42329f5ac",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 1,
+            "m_owner": "de5d8399-5576-4e29-9bd1-cd7be60c961f"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

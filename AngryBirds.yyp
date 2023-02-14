@@ -839,6 +839,14 @@
             }
         },
         {
+            "Key": "e6e345f4-7d7d-43ef-999a-b764abba8241",
+            "Value": {
+                "id": "95d892ac-be57-4d79-818d-9a844fa3970c",
+                "resourcePath": "sprites\\spr_green_cloud\\spr_green_cloud.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e77eaad9-2656-4d1d-95e8-4a3dd24a804c",
             "Value": {
                 "id": "8bf1383e-ff15-42db-8800-3a30751c99ae",

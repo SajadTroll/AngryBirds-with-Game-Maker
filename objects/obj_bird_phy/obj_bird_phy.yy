@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "obj_bird_phy",
     "eventList": [
-        
+        {
+            "id": "32ae4237-2b20-4143-93df-4a39c1c658a9",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 1,
+            "m_owner": "3b7995ef-9c11-4969-86b4-83e49bdfb416"
+        },
+        {
+            "id": "e04a746d-57c8-48f0-b5c1-1c4f3605aa3c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "3b7995ef-9c11-4969-86b4-83e49bdfb416"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
