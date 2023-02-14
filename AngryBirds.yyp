@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "0d370c7d-4eef-4e11-9fb0-c54a1defd131",
+            "Value": {
+                "id": "61dc8d4d-ef78-4827-ad7f-376214f3b1b6",
+                "resourcePath": "sounds\\star_snd\\star_snd.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "0dbd61cb-f74c-4096-9b11-2b82474317c7",
             "Value": {
                 "id": "90d6753e-529f-4ca6-bf6e-a6c19a54f95a",
@@ -191,6 +199,14 @@
             }
         },
         {
+            "Key": "25915a9f-4bbe-4a5e-9ee7-6075ca4c7a15",
+            "Value": {
+                "id": "b4eed108-caa7-4aba-924d-c1a9eac52c74",
+                "resourcePath": "sounds\\enemy_destroyed\\enemy_destroyed.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "25c3fea4-f5b0-4695-92c3-54ba64127abf",
             "Value": {
                 "id": "df905b80-1a1a-43f7-8f2e-973a7ca59638",
@@ -212,6 +228,14 @@
                 "id": "023ad629-a8d9-4665-bf83-e33fff08c618",
                 "resourcePath": "objects\\obj_triangle_wood_phy\\obj_triangle_wood_phy.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2a28172d-9f69-45ca-8c73-c3a4b68dff5c",
+            "Value": {
+                "id": "10273d81-5c24-4913-bec2-3a9b7a31647b",
+                "resourcePath": "sounds\\bird_1_collision\\bird_1_collision.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -247,6 +271,14 @@
             }
         },
         {
+            "Key": "34f7ea84-0657-4fb4-93b7-599c87068417",
+            "Value": {
+                "id": "baaa818e-3329-4830-ba1d-c19222fb3f67",
+                "resourcePath": "sounds\\bird_2_collision\\bird_2_collision.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "3a5af38c-757d-41ae-98c0-5d4b09e14e6a",
             "Value": {
                 "id": "aec83286-a13d-4bbb-9127-d3d8e196f5ce",
@@ -268,6 +300,14 @@
                 "id": "c7107877-7809-49e2-93fa-9d8228c20ac6",
                 "resourcePath": "objects\\obj_bird_phy\\obj_bird_phy.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3f7cb854-3e05-4607-a5cb-f7766f20786f",
+            "Value": {
+                "id": "0943638e-0150-4357-81d5-47f4b9304a3c",
+                "resourcePath": "sounds\\bird_shot\\bird_shot.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -324,6 +364,14 @@
                 "id": "8f8d9463-ecfa-4e22-8042-ea706dbf6e4c",
                 "resourcePath": "objects\\obj_ground_phy\\obj_ground_phy.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4d0a6a11-6c39-4612-b6d8-d5e3f76a499f",
+            "Value": {
+                "id": "3caf4265-847e-4b45-b913-2695417d6947",
+                "resourcePath": "sounds\\bird_2_fly\\bird_2_fly.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -399,6 +447,14 @@
             }
         },
         {
+            "Key": "66f3cf8c-78a5-4996-a6f5-f7c5fde59a09",
+            "Value": {
+                "id": "b06668dc-27b0-492b-9f4c-6ae325559ca9",
+                "resourcePath": "sounds\\enemy_damage\\enemy_damage.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "68c0af7e-4e1c-425e-a3cc-645e627ce20f",
             "Value": {
                 "id": "6bf234d1-167e-4d35-872f-cd7d6d2ada01",
@@ -420,6 +476,22 @@
                 "id": "f63633f5-19ee-4090-9e5e-d34354267309",
                 "resourcePath": "views\\6afdbeec-910a-4502-8c6e-5d019c2fad31.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6be23fbc-9aaa-4030-b7cb-186d3a5d6e0e",
+            "Value": {
+                "id": "cef08caa-4419-42ff-b7ee-8ab6e7cf5040",
+                "resourcePath": "sounds\\bird3_fly\\bird3_fly.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "6f236329-5abe-46b2-afcc-567950eab315",
+            "Value": {
+                "id": "cfc14854-e1d0-49c0-ae28-2a57973f52f7",
+                "resourcePath": "sounds\\enemy_collision\\enemy_collision.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -455,6 +527,14 @@
             }
         },
         {
+            "Key": "77323349-e0b9-49da-a6dd-5ddd6e46b6ca",
+            "Value": {
+                "id": "9dbb30f2-6854-42d1-b904-500470bb5f6d",
+                "resourcePath": "sounds\\slingshot_streched\\slingshot_streched.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "779ab0ac-1940-4291-8ee0-cc80d8379e5e",
             "Value": {
                 "id": "86553651-066f-4b40-bcc6-116f5e63fd85",
@@ -468,6 +548,14 @@
                 "id": "1336319c-d84e-4386-9f80-94fe059243e0",
                 "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
                 "resourceType": "GMWindowsUAPOptions"
+            }
+        },
+        {
+            "Key": "836fec84-871f-488c-a625-0323aaa22034",
+            "Value": {
+                "id": "c9026179-bfb4-4e3e-b8e0-86b0bd8885d3",
+                "resourcePath": "sounds\\stone_damage\\stone_damage.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -575,6 +663,14 @@
             }
         },
         {
+            "Key": "a4b04abe-1c0e-4997-9dfb-f221a114aee6",
+            "Value": {
+                "id": "29a13be1-5152-4e13-9622-c10635436746",
+                "resourcePath": "sounds\\lose\\lose.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "a50354e9-38cd-40ca-814b-6ccd28a9990f",
             "Value": {
                 "id": "2db24b72-d94c-4a4d-ae7e-aecbe6808ed4",
@@ -655,6 +751,14 @@
             }
         },
         {
+            "Key": "c36f8ebe-ae5a-4fe5-832e-1b092fe7fe6c",
+            "Value": {
+                "id": "71414558-ae5d-493f-a6b9-1d423682c635",
+                "resourcePath": "sounds\\win\\win.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "c425724b-3c4b-4f10-b80a-48b6d3b8cac4",
             "Value": {
                 "id": "b45e74d6-1d68-4c76-88ad-2487d4296230",
@@ -684,6 +788,14 @@
                 "id": "1af81015-d12f-40e9-baf1-8def68ac6624",
                 "resourcePath": "datafiles_yy\\images\\spr_bird3_0.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "c9021c15-2028-45c0-aa83-4ff76368c4a1",
+            "Value": {
+                "id": "c8176efe-1e0c-4383-8317-7ea6e10ff32f",
+                "resourcePath": "sounds\\bird_fly\\bird_fly.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -775,6 +887,14 @@
             }
         },
         {
+            "Key": "da793b13-e52e-42f5-a1f5-79591f312449",
+            "Value": {
+                "id": "b451596c-f6f2-41f6-a3e3-36e4ae000240",
+                "resourcePath": "sounds\\stone_destroyed\\stone_destroyed.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "da9f96fc-3368-499d-9ceb-be384a83c4cb",
             "Value": {
                 "id": "a46fc9e7-f98d-46e5-a7f0-37c6fa7e7193",
@@ -807,11 +927,27 @@
             }
         },
         {
+            "Key": "df9849ab-b868-4c6a-8cbe-1b5707246e05",
+            "Value": {
+                "id": "1037c765-aeb3-4c24-b0bc-91c6fc06c83b",
+                "resourcePath": "sounds\\sound8\\sound8.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "e07c2d9f-407a-4a81-9232-22ccbc252947",
             "Value": {
                 "id": "56b9b628-1f30-4283-ab98-c006d57796ca",
                 "resourcePath": "views\\e07c2d9f-407a-4a81-9232-22ccbc252947.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e21f96ea-b68c-4d05-8238-04ecb30c7391",
+            "Value": {
+                "id": "c5e13625-8365-4265-b110-1695ad1ded60",
+                "resourcePath": "sounds\\start\\start.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -855,6 +991,14 @@
             }
         },
         {
+            "Key": "e8694702-7afc-4782-9e18-80ffb2991765",
+            "Value": {
+                "id": "8a7d96fb-a321-4431-9c08-98d5dba0d52b",
+                "resourcePath": "sounds\\bird3_collision\\bird3_collision.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "e8d8fc99-2b83-442e-8fd7-ffefd63948c3",
             "Value": {
                 "id": "18bb9fcd-4539-4dd7-b691-5de7f8e26e98",
@@ -879,6 +1023,14 @@
             }
         },
         {
+            "Key": "f01efda4-2e3b-46ef-bca7-ceebfe86bc4e",
+            "Value": {
+                "id": "17cbb1cc-7cb1-4710-b951-2140f76b0da7",
+                "resourcePath": "sounds\\bird_destroy\\bird_destroy.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "f0a48b90-75f9-4213-9d06-9f7d5ae140ad",
             "Value": {
                 "id": "8d9a7f2f-7b8c-4532-b9bc-fb2447fd2549",
@@ -892,6 +1044,14 @@
                 "id": "8d1dc2a1-64bf-4d91-897a-15f60c34ad73",
                 "resourcePath": "datafiles_yy\\spr_cloud.sprite.gmx.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f33921ac-6472-4a3f-a679-414ab95b1477",
+            "Value": {
+                "id": "a34cda90-d4cd-47d7-a1b8-526b4cc6459e",
+                "resourcePath": "sounds\\sound9\\sound9.yy",
+                "resourceType": "GMSound"
             }
         },
         {
