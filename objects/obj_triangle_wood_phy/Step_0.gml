@@ -15,6 +15,4 @@ if( flag_colision )
 	{
 		instance_destroy();
 	}
-	
-	
 }

@@ -2,7 +2,7 @@
     "id": "6ad285f9-e9a1-4869-8170-1486ff499b72",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_box_wood1_0",
+    "name": "spr_box_wood",
     "For3D": false,
     "HTile": false,
     "VTile": false,
@@ -33,6 +33,28 @@
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
                     "FrameId": "517ecf67-de13-4078-8d3b-0c3a001cb844",
+                    "LayerId": "f982259a-e557-42a3-b2e3-98198e1d0956"
+                }
+            ]
+        },
+        {
+            "id": "fa5c8aaf-4ab0-4728-980e-b4ebd4d106cc",
+            "modelName": "GMSpriteFrame",
+            "mvc": "1.0",
+            "SpriteId": "6ad285f9-e9a1-4869-8170-1486ff499b72",
+            "compositeImage": {
+                "id": "204f00f1-16ea-4aef-ac75-054e2dd0539a",
+                "modelName": "GMSpriteImage",
+                "mvc": "1.0",
+                "FrameId": "fa5c8aaf-4ab0-4728-980e-b4ebd4d106cc",
+                "LayerId": "00000000-0000-0000-0000-000000000000"
+            },
+            "images": [
+                {
+                    "id": "5be2152f-fd85-4e9c-b37a-ff97758e9fdc",
+                    "modelName": "GMSpriteImage",
+                    "mvc": "1.0",
+                    "FrameId": "fa5c8aaf-4ab0-4728-980e-b4ebd4d106cc",
                     "LayerId": "f982259a-e557-42a3-b2e3-98198e1d0956"
                 }
             ]

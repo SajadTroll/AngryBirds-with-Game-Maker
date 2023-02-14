@@ -63,14 +63,6 @@
             }
         },
         {
-            "Key": "0a4b803c-d520-4564-8e7c-5e8a4755fd2e",
-            "Value": {
-                "id": "9c55c567-e5a1-4c86-85e9-c7d46a676e0e",
-                "resourcePath": "sprites\\spr_box_wood2_0\\spr_box_wood2_0.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "0b2d2091-8f1b-424f-a5b7-3d03fceff13b",
             "Value": {
                 "id": "cadf2a14-954a-496d-96e9-8fba75e6007e",
@@ -426,7 +418,7 @@
             "Key": "6ad285f9-e9a1-4869-8170-1486ff499b72",
             "Value": {
                 "id": "7a24d927-c903-480b-bbb4-7035eba50e29",
-                "resourcePath": "sprites\\spr_box_wood1_0\\spr_box_wood1_0.yy",
+                "resourcePath": "sprites\\spr_box_wood\\spr_box_wood.yy",
                 "resourceType": "GMSprite"
             }
         },
