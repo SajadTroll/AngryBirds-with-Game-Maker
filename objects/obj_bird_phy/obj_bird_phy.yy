@@ -4,16 +4,7 @@
     "mvc": "1.0",
     "name": "obj_bird_phy",
     "eventList": [
-        {
-            "id": "3fa06412-db00-44f0-9c59-a0d4a018e0a5",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "3b7995ef-9c11-4969-86b4-83e49bdfb416"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

@@ -151,14 +151,6 @@
             }
         },
         {
-            "Key": "1ba8be51-714f-45b6-b99c-5faa0043cb17",
-            "Value": {
-                "id": "861464f7-32d0-44b0-89c0-3b1f9cb63622",
-                "resourcePath": "sprites\\spr_enemy2_0\\spr_enemy2_0.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "1c946aee-f1dd-43e7-899a-d71ad97c4757",
             "Value": {
                 "id": "9254b2bb-b3f3-4dcc-aaf4-dc84722e1b49",
@@ -498,7 +490,7 @@
             "Key": "86bdfd31-e602-4ba3-9b91-94248782a2e9",
             "Value": {
                 "id": "d0a6a837-85e8-4307-b277-0a1dd86f372c",
-                "resourcePath": "sprites\\spr_enemy1_0\\spr_enemy1_0.yy",
+                "resourcePath": "sprites\\spr_enemy\\spr_enemy.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -615,14 +607,6 @@
             }
         },
         {
-            "Key": "a9f3ff3b-9587-488c-b1b0-89cfe49387b1",
-            "Value": {
-                "id": "57f8daa5-b664-42f4-aaed-408f4bc51dd7",
-                "resourcePath": "sprites\\spr_triangle_wood2_0\\spr_triangle_wood2_0.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "b4d515fc-6917-4eee-bc35-82110569e313",
             "Value": {
                 "id": "7a6fb498-b1f6-47da-b16b-79277ee628b7",
@@ -658,7 +642,7 @@
             "Key": "c09314da-a980-4ae7-a33b-fa4612592ff3",
             "Value": {
                 "id": "63e5cf51-b408-414f-bb9d-df3aa743525d",
-                "resourcePath": "sprites\\spr_triangle_wood1_0\\spr_triangle_wood1_0.yy",
+                "resourcePath": "sprites\\spr_triangle_wood\\spr_triangle_wood.yy",
                 "resourceType": "GMSprite"
             }
         },
