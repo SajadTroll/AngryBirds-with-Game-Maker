@@ -7,3 +7,8 @@ if(!flag_isWin && !instance_exists(obj_pig_phy))
 	alarm[11] = 120;
 }
 
+if( allow_to_call_bird and bird_turn < array_length_1d(arr_all_bird))
+{
+	allow_to_call_bird = false;
+	arr_all_bird[bird_turn].moveToSling = true;
+}

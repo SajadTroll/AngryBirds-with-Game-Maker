@@ -53,6 +53,16 @@
             "enumb": 0,
             "eventtype": 8,
             "m_owner": "f5b57283-ca00-4bdf-ae11-03ec34ee66c7"
+        },
+        {
+            "id": "773d89e2-77da-4360-ae33-a825a517799a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "f5b57283-ca00-4bdf-ae11-03ec34ee66c7"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -85,6 +95,20 @@
             "value": "obj_bird_phy",
             "varName": "phy_bird_to_create",
             "varType": 5
+        },
+        {
+            "id": "0af94c11-d498-41b4-965c-32726a2c19e0",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "5",
+            "varName": "force_reducer",
+            "varType": 0
         }
     ],
     "solid": false,

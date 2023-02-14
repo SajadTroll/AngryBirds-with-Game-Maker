@@ -15,6 +15,14 @@
             "objectId": "f5b57283-ca00-4bdf-ae11-03ec34ee66c7",
             "propertyId": "8f3c1b0e-4d12-47c0-bbd4-c42233e53cea",
             "value": "obj_bird_yellow_phy"
+        },
+        {
+            "id": "5d82d287-0900-4b29-a67e-aa89e33ceccb",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "f5b57283-ca00-4bdf-ae11-03ec34ee66c7",
+            "propertyId": "0af94c11-d498-41b4-965c-32726a2c19e0",
+            "value": "15"
         }
     ],
     "parentObjectId": "f5b57283-ca00-4bdf-ae11-03ec34ee66c7",

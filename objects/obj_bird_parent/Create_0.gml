@@ -1,3 +1,4 @@
 depth = 0
 isGrabbed = false;
-force = 5;
+isInPlace = false;
+moveToSling = false;

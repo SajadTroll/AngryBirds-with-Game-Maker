@@ -447,14 +447,6 @@
             }
         },
         {
-            "Key": "5aff053a-6db6-4711-a094-b8f9fb1ac38d",
-            "Value": {
-                "id": "fc632d94-a2a4-4792-84b3-f53d8807b111",
-                "resourcePath": "objects\\obj_\\obj_.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "5c6b06f4-9d14-4330-a3a1-b6782ae48ef3",
             "Value": {
                 "id": "e21fe314-9a5a-4c88-ad75-ee0a301ae48c",
@@ -972,6 +964,14 @@
                 "id": "b2f94094-ec3d-47ad-8379-5ebfc9fa1bd6",
                 "resourcePath": "datafiles_yy\\spr_enemy2.sprite.gmx.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "dc9421ee-4db2-458f-9d04-700c34e28379",
+            "Value": {
+                "id": "5ec43c12-05f8-43a7-9131-ff13cd10bfe5",
+                "resourcePath": "extensions\\extension0\\extension0.yy",
+                "resourceType": "GMExtension"
             }
         },
         {

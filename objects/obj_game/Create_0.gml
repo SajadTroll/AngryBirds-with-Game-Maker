@@ -1,5 +1,5 @@
-//var birds = [obj_bird,obj_bird_blue_phy];
-global.birds_number = 2;
-global.birds_number--;
-instance_create_depth(x,y,0,obj_bird_yellow);
-flag_isWin = false;
+flag_isWin =  false;
+arr_all_bird = [b1,b2,b3];
+arr_nut_repeat =[0,0,0];
+bird_turn = 0;
+allow_to_call_bird = true;
