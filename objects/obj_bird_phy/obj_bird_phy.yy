@@ -23,6 +23,16 @@
             "enumb": 0,
             "eventtype": 3,
             "m_owner": "3b7995ef-9c11-4969-86b4-83e49bdfb416"
+        },
+        {
+            "id": "c0cd5372-a6b2-4657-b027-62808f56f327",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "3b7995ef-9c11-4969-86b4-83e49bdfb416"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -56,7 +66,22 @@
         }
     ],
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "39c9bf74-f285-441a-9c1c-51061825ce28",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "bird_2_fly",
+            "varName": "fly_sound",
+            "varType": 5
+        }
+    ],
     "solid": false,
     "spriteId": "75e209cc-8e83-4705-85a9-c15cc196be2f",
     "visible": true
