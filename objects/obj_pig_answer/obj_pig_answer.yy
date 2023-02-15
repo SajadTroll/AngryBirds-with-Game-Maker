@@ -13,6 +13,46 @@
             "enumb": 0,
             "eventtype": 1,
             "m_owner": "04314abb-7a8f-4890-9230-f6de79e00e11"
+        },
+        {
+            "id": "e28b65d9-c6a9-4ddc-b40c-2435c73189fc",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "a9b1dfcc-8214-426c-9e76-7a3e549fef55",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "04314abb-7a8f-4890-9230-f6de79e00e11"
+        },
+        {
+            "id": "84508358-32f6-4cb2-aa21-20224dbe7e9f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "04314abb-7a8f-4890-9230-f6de79e00e11"
+        },
+        {
+            "id": "7e521e37-de7e-4a79-aea3-6b198a4c6819",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "e9944b6e-13a9-4bd3-b8a9-39a311659a48",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "04314abb-7a8f-4890-9230-f6de79e00e11"
+        },
+        {
+            "id": "960d9806-84a7-47b6-b694-bd6c5084c4a3",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "04314abb-7a8f-4890-9230-f6de79e00e11"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -60,20 +100,6 @@
             "value": "0",
             "varName": "is_correct",
             "varType": 3
-        },
-        {
-            "id": "a28216af-e425-4210-8bc6-9c169d120a52",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "number_to_show",
-            "varType": 1
         }
     ],
     "solid": false,

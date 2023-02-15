@@ -13,6 +13,36 @@
             "enumb": 0,
             "eventtype": 0,
             "m_owner": "5108eb91-bac5-4660-9e6a-664d8b7836e4"
+        },
+        {
+            "id": "0acd5eb4-3e2d-430b-912b-83de15a0b1fe",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 32,
+            "eventtype": 9,
+            "m_owner": "5108eb91-bac5-4660-9e6a-664d8b7836e4"
+        },
+        {
+            "id": "3dfe7658-00b2-47d5-8756-333c1d16607e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 64,
+            "eventtype": 8,
+            "m_owner": "5108eb91-bac5-4660-9e6a-664d8b7836e4"
+        },
+        {
+            "id": "71d86cb6-dd11-4d1d-aa7f-6cfe3330c65d",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "5108eb91-bac5-4660-9e6a-664d8b7836e4"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -31,7 +61,64 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "afef5d46-176d-456a-bcd8-ccaccda5e7a4",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "1",
+            "varName": "min_question_number",
+            "varType": 1
+        },
+        {
+            "id": "721645b0-5e1b-44b5-90ba-0f904a22823f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "9",
+            "varName": "max_question_number",
+            "varType": 1
+        },
+        {
+            "id": "4b337cd1-29e5-4df8-bdf0-5ebd1a8248e9",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "150",
+            "varName": "draw_x_offset",
+            "varType": 1
+        },
+        {
+            "id": "56a8d271-b27a-4afc-a5c3-1a97ee16456e",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "80",
+            "varName": "draw_y_offset",
+            "varType": 1
+        }
+    ],
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
