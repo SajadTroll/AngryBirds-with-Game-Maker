@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "04314abb-7a8f-4890-9230-f6de79e00e11",
+            "Value": {
+                "id": "00ee89d4-109f-4968-a0d4-157c0a394534",
+                "resourcePath": "objects\\obj_pig_answer\\obj_pig_answer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "07e76bdb-547a-46f4-8600-a11f9c865d8d",
             "Value": {
                 "id": "6f10efdc-cae7-4b6c-83b1-be8ec4fca67b",
@@ -311,6 +319,14 @@
             }
         },
         {
+            "Key": "387c38a8-5a16-4a0d-b101-d696c3d109b0",
+            "Value": {
+                "id": "1755123a-32e6-4ccb-a460-e0dabf8731a2",
+                "resourcePath": "views\\387c38a8-5a16-4a0d-b101-d696c3d109b0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "3a5af38c-757d-41ae-98c0-5d4b09e14e6a",
             "Value": {
                 "id": "aec83286-a13d-4bbb-9127-d3d8e196f5ce",
@@ -412,6 +428,14 @@
                 "id": "3caf4265-847e-4b45-b913-2695417d6947",
                 "resourcePath": "sounds\\bird_2_fly\\bird_2_fly.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "5108eb91-bac5-4660-9e6a-664d8b7836e4",
+            "Value": {
+                "id": "8055d206-fd43-4bd2-8bef-5e71b47431e5",
+                "resourcePath": "objects\\obj_control_questions\\obj_control_questions.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -639,6 +663,22 @@
             }
         },
         {
+            "Key": "8bb7d48f-2c91-4c37-89a3-4777987889b2",
+            "Value": {
+                "id": "879d02ee-4c9a-4989-964f-de37a44355b6",
+                "resourcePath": "views\\8bb7d48f-2c91-4c37-89a3-4777987889b2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8cfddf44-ef13-4387-80ea-996b096366e7",
+            "Value": {
+                "id": "ed487a30-7a05-4bfc-95aa-e23a914c870f",
+                "resourcePath": "views\\8cfddf44-ef13-4387-80ea-996b096366e7.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "8e30fc6b-5cf6-4f1e-b01b-11b23a4dcb08",
             "Value": {
                 "id": "30f21e09-9fd4-4870-b24a-5de39a38fa14",
@@ -716,6 +756,14 @@
                 "id": "2db24b72-d94c-4a4d-ae7e-aecbe6808ed4",
                 "resourcePath": "sprites\\sling_front_0\\sling_front_0.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a55c89bb-0af3-44b2-9d54-717e007502c8",
+            "Value": {
+                "id": "a9230a6e-b3af-45cc-a932-6d097e423dec",
+                "resourcePath": "objects\\obj_platform\\obj_platform.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -836,6 +884,14 @@
                 "id": "1af81015-d12f-40e9-baf1-8def68ac6624",
                 "resourcePath": "datafiles_yy\\images\\spr_bird3_0.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "c78075be-15fc-40c5-a712-ac965d0df917",
+            "Value": {
+                "id": "acbf0f18-69a4-477b-b28b-a51a61083c3b",
+                "resourcePath": "objects\\obj_bird_move_trail\\obj_bird_move_trail.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1074,7 +1130,7 @@
             "Key": "e9944b6e-13a9-4bd3-b8a9-39a311659a48",
             "Value": {
                 "id": "2acfbc23-a058-4ae2-8372-e78eadd50545",
-                "resourcePath": "objects\\dinamic_parent\\dinamic_parent.yy",
+                "resourcePath": "objects\\dynamic_parent\\dynamic_parent.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1100,6 +1156,14 @@
                 "id": "8d9a7f2f-7b8c-4532-b9bc-fb2447fd2549",
                 "resourcePath": "datafiles_yy\\images\\spr_stone2_0.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f0d1210d-7456-4135-8ee0-9572c714d966",
+            "Value": {
+                "id": "e7ffff4e-286c-40e4-b0f5-c6530ac92d9b",
+                "resourcePath": "rooms\\rm_game\\rm_game.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
